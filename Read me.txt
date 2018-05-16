@@ -1,4 +1,4 @@
-This project made by me : George Samuel 
+This project made by me : George Samuel ==> At 10 / 5 / 2018
 This project allow you to write queries about information retrival model (Distributed database)
 This project is how to write queries (& ||) to get files that contains that query 
 You can write more than one query without brackets 
