@@ -1,0 +1,18 @@
+c:\users\george\documents\visual studio 2013\Projects\Distributed database\Distributed database\bin\Debug\Distributed database.exe.config
+c:\users\george\documents\visual studio 2013\Projects\Distributed database\Distributed database\obj\Debug\Distributed database.csprojResolveAssemblyReference.cache
+c:\users\george\documents\visual studio 2013\Projects\Distributed database\Distributed database\obj\Debug\Distributed_database.Form1.resources
+c:\users\george\documents\visual studio 2013\Projects\Distributed database\Distributed database\obj\Debug\Distributed_database.Properties.Resources.resources
+c:\users\george\documents\visual studio 2013\Projects\Distributed database\Distributed database\obj\Debug\Distributed database.csproj.GenerateResource.Cache
+c:\users\george\documents\visual studio 2013\Projects\Distributed database\Distributed database\bin\Debug\Distributed database.exe
+c:\users\george\documents\visual studio 2013\Projects\Distributed database\Distributed database\bin\Debug\Distributed database.pdb
+c:\users\george\documents\visual studio 2013\Projects\Distributed database\Distributed database\obj\Debug\Distributed database.exe
+c:\users\george\documents\visual studio 2013\Projects\Distributed database\Distributed database\obj\Debug\Distributed database.pdb
+F:\ImportantProjects\Distributed database\Distributed database\bin\Debug\Distributed database.exe.config
+F:\ImportantProjects\Distributed database\Distributed database\obj\Debug\Distributed database.exe
+F:\ImportantProjects\Distributed database\Distributed database\obj\Debug\Distributed database.pdb
+F:\ImportantProjects\Distributed database\Distributed database\bin\Debug\Distributed database.exe
+F:\ImportantProjects\Distributed database\Distributed database\bin\Debug\Distributed database.pdb
+F:\ImportantProjects\Distributed database\Distributed database\obj\Debug\Distributed database.csprojResolveAssemblyReference.cache
+F:\ImportantProjects\Distributed database\Distributed database\obj\Debug\Distributed_database.Form1.resources
+F:\ImportantProjects\Distributed database\Distributed database\obj\Debug\Distributed_database.Properties.Resources.resources
+F:\ImportantProjects\Distributed database\Distributed database\obj\Debug\Distributed database.csproj.GenerateResource.Cache
